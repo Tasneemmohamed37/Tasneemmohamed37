@@ -23,7 +23,7 @@
 #### 🎓 Internships
 
 <p align="center">
-- Full Stack web Development using .NET Intensive CodeCamp (ICC) Information Technology Institute (ITI) Ministryof Communication and Information Technology (MCIT)
+- Full Stack web Development using .NET Intensive CodeCamp (ICC) Information Technology Institute (ITI) Ministry of Communication and Information Technology (MCIT)
 Minia Branch , ITI Elminya, 2023
 </p>
 
