@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/tasneem-elhussiny/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="111" height="28" alt="LinkedIn Badge"/>
     </a>
-    <br>
+    <br><br>
     <a href="mailto:tasnemmuhammad37@gmail.com">
         <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png" width="111" height="28" alt="LinkedIn Badge"/>
     </a>
