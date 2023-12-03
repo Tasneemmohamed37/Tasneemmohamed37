@@ -4,21 +4,17 @@
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450"/>
   </div>
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/tasneem-elhussiny/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="111" height="28" alt="LinkedIn Badge"/>
-    </a>
-    <br><br>
-    <a href="mailto:tasnemmuhammad37@gmail.com">
-        <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png" width="111" height="28" alt="LinkedIn Badge"/>
-    </a>
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square&scale=2)](https://www.linkedin.com/in/tasneem-elhussiny/)
+    [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white&style=flat-square&scale=2)](mailto:tasnemmuhammad37@gmail.com)
 
+  <div id="badges">
   <h1 align="center">
     Hey There! I'm Tasneem Mohamed Elhussiny
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-
 </div>
+
+
 
 #### 🎓 Internships
 
@@ -30,5 +26,5 @@
 #### 🎓 Education
 
 <p align="center">
-- Bachelor's Degree Faculty of computers and information (3.3 GPA) , Elminya-University, Egypt, 2023
+- Bachelor's Degree Faculty of Computers & Information (3.3 GPA) , Minia University, Egypt, 2023
 </p>
