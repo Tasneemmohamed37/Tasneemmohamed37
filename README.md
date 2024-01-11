@@ -26,7 +26,7 @@
 #### 🎓 Education
 
 <p align="center">
-- Bachelor's Degree Faculty of Computers & Information (3.3 GPA) , Minia University, Egypt, 2023
+- Bachelor's Degree Faculty of Computers & Informations (3.3 GPA) , Minia University, Egypt, 2023
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Tasneemmohamed37&icon=0&color=0)](https://visitcount.itsvg.in)
