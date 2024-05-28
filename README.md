@@ -6,6 +6,7 @@
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square&scale=2)](https://www.linkedin.com/in/tasneem-elhussiny/)
     [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white&style=flat-square&scale=2)](mailto:tasnemmuhammad37@gmail.com)
+     [![CV](https://img.shields.io/badge/Tasneem%20Elhussiny%20-%20resume-%23FF0000.svg?style=flat-square&scale=2)](https://drive.google.com/file/d/1VYJgWv-EY3kMVD-0klpaE65YLOogXiRw/view?usp=sharing)
 
   <div id="badges">
   <h1 align="center">
